@@ -1,0 +1,8 @@
+name: SetHunger
+version: ${project.version}
+main: net.reflxction.sethunger.SetHunger
+authors: [Reflxction]
+description: An extremely simple Bukkit plugin to manage hunger
+commands:
+  hunger:
+    description: Set hunger for yourself/others
